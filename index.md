@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 书籍
 
- [杂烩型](https://kindleer.com/). 
+ [杂烩型](https://kindleer.com/).
 
 ### Support or Contact
 
